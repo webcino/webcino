@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webcino
 - 👀 I’m interested in all things software development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on beginner projects at the moment
 - 📫 How to reach me alcino.namba20@gmail.com
 
